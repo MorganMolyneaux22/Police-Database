@@ -1,4 +1,6 @@
--- Tables used in creating the Police Database 
+-- Author: Morgan Molyneaux 
+-- Date: 2023-11-26
+-- Purpose of the following: Create tables used within basic SQL database. 
 
 
 CREATE TABLE PoliceStation (
